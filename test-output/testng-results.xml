@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-09T15:43:54 IST" name="Default suite" finished-at="2021-11-09T15:44:01 IST" duration-ms="7363">
+    <groups>
+    </groups>
+    <test started-at="2021-11-09T15:43:54 IST" name="Default test" finished-at="2021-11-09T15:44:01 IST" duration-ms="7363">
+      <class name="com.evs.vtiger.testLoginpage.TestLoginPage">
+        <test-method is-config="true" signature="validLogin()[pri:0, instance:com.evs.vtiger.testLoginpage.TestLoginPage@c88a337]" started-at="2021-11-09T15:43:54 IST" name="validLogin" finished-at="2021-11-09T15:43:59 IST" duration-ms="4661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method signature="asdf()[pri:0, instance:com.evs.vtiger.testLoginpage.TestLoginPage@c88a337]" started-at="2021-11-09T15:43:59 IST" name="asdf" finished-at="2021-11-09T15:44:01 IST" duration-ms="2626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asdf -->
+      </class> <!-- com.evs.vtiger.testLoginpage.TestLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
